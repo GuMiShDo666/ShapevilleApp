@@ -16,9 +16,6 @@ Shapeville 是一款面向小学生设计的互动式几何学习辅助软件，
 * **挑战模块 (Bonus)**：两个附加任务，提升解题难度与自主思考能力。
 * **学习进度**：实时记录任务完成情况与得分，输出成绩报告。
 
-## 系统截图
-
-<kbd>主界面</kbd> ![主界面](docs/screenshots/main.png) <kbd>KS1 任务</kbd> ![KS1](docs/screenshots/ks1.png) <kbd>KS2 任务</kbd> ![KS2](docs/screenshots/ks2.png) <kbd>挑战模块</kbd> ![Bonus](docs/screenshots/bonus.png)
 
 ## 环境要求
 
@@ -62,17 +59,3 @@ Shapeville/
 └── LICENSE                # 开源协议
 ```
 
-## 贡献者
-
-欢迎提交 Issue 与 Pull Request，一起完善 Shapeville：
-
-* **主要开发**：张三 ([zhangsan@example.com](mailto:zhangsan@example.com))
-* **UI 设计**：李四 ([lisi@example.com](mailto:lisi@example.com))
-
-## 联系方式
-
-如有问题，请发邮件至 [support@shapeville.org](mailto:support@shapeville.org)，或在 GitHub 上提交 Issue。
-
----
-
-© 2025 Shapeville 团队 | [License](LICENSE)
