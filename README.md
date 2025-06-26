@@ -1,7 +1,5 @@
 # Shapeville 几何学习辅助应用
 
-![Shapeville Logo](docs/logo.png)
-
 ## 简介
 
 Shapeville 是一款面向小学生设计的互动式几何学习辅助软件，通过图形识别、角度判断、面积计算等任务，帮助学生巩固几何基础知识，提高空间思维与计算能力。
